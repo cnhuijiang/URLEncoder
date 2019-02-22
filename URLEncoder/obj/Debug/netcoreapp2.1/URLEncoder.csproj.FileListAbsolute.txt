@@ -1,0 +1,11 @@
+/Users/jimmy/Projects/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.csprojAssemblyReference.cache
+/Users/jimmy/Projects/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.csproj.CoreCompileInputs.cache
+/Users/jimmy/Projects/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.AssemblyInfoInputs.cache
+/Users/jimmy/Projects/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.AssemblyInfo.cs
+/Users/jimmy/Projects/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.deps.json
+/Users/jimmy/Projects/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.runtimeconfig.json
+/Users/jimmy/Projects/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.runtimeconfig.dev.json
+/Users/jimmy/Projects/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.dll
+/Users/jimmy/Projects/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.pdb
+/Users/jimmy/Projects/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.dll
+/Users/jimmy/Projects/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.pdb
